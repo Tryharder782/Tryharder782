@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tryharder782
-- 👀 I’m interested in Games, Anime and Food))
+- 👀 I’m interested in Becoming sigma
 - 🌱 I’m currently learning React and Redux
 - 💞️ I’m looking to collaborate on nothing. 
 - 📫 How to reach me: DM
