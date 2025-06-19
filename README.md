@@ -19,11 +19,11 @@ Here are some of the technologies I work with:
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" alt="icon" width="65" height="65" />
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" alt="icon" width="65" height="65" />
       <br>Express
     </td>
     <td align="center" width="96">
@@ -35,7 +35,7 @@ Here are some of the technologies I work with:
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/sequelize-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://icon.icepanel.io/Technology/svg/Sequelize.svg" alt="icon" width="65" height="65" />
       <br>Sequelize
     </td>
      <td align="center" width="96">
@@ -43,7 +43,7 @@ Here are some of the technologies I work with:
       <br>REST API
     </td>
       <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/threejs-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://icon.icepanel.io/Technology/png-shadow-512/Three.js.png" alt="icon" width="65" height="65" />
       <br>Three.js
     </td>
   </tr>
