@@ -27,7 +27,7 @@ Here are some of the technologies I work with:
       <br>Express
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL" width="65" height="65" />
       <br>PostgreSQL
     </td>
      <td align="center" width="96">
