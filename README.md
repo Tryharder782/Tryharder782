@@ -57,5 +57,5 @@ Here are some of my key projects. You can find more in my repositories.
 
 | Project | Description |
 | :--- | :--- |
-| **KeysForTroubles (Social Network)** | A full-featured social network built with the PERN stack. Includes user authentication, real-time chat via WebSockets, post creation, and more. [**Live Demo**](https://keysfortroubles.onrender.com) |
-| **CGMA (3D Skull Viewer)** | A proof-of-concept for a medical education platform, featuring an interactive 3D skull model built with Three.js and React Three Fiber. [**Live Demo**](https://cgma-9tyz.onrender.com) |
+| **KeysForTroubles (Social Network)** | A full-featured social network built with the PERN stack. Includes user authentication, real-time chat via WebSockets, post creation, and more. |
+| **CGMA (3D Skull Viewer)** | A proof-of-concept for a medical education platform, featuring an interactive 3D skull model built with Three.js and React Three Fiber. [**Live Demo**](https://cgma-1.onrender.com/) |
